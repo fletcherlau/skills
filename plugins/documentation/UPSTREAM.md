@@ -58,4 +58,21 @@
 | `SKILL.md` | `53910266335efda76fd78852a9ce381d9e1c0675cb1f9920a003cf816c7c680c` |
 | `references/doc-style-guide.md` | `31a955706f6932ed520bf5059e5cdad3516b64799029ecbcbd4c49dfd6465613` |
 
+## documentation-review
+
+- 引入目录：`skills/documentation-review/`
+- 项目：[canonical/workshop](https://github.com/canonical/workshop)
+- 原文：[documentation-review/SKILL.md](https://github.com/canonical/workshop/blob/main/.github/skills/documentation-review/SKILL.md)
+- 配套参考：[doc-review-report-template.md](https://github.com/canonical/workshop/blob/main/.github/skills/documentation-review/references/doc-review-report-template.md)
+- 获取日期：2026-09-21
+- 获取分支：`main`；以下 Git blob SHA 与文件 SHA-256 标识本次引入内容。
+- 本地修改：无，入口与报告模板均保留上游原文，作为后续适配的讨论基线。
+- 适配状态：上游流程仍依赖尚未引入的 `documentation-build`，并保留源码核验与固定问题分级；尚未与本插件已改编的专项技能对齐。
+- 上游仓库根目录许可证：[LICENSE](https://github.com/canonical/workshop/blob/main/LICENSE)（GNU GPL v3）；已核对与现有 [LICENSE.canonical-workshop](LICENSE.canonical-workshop) 副本一致。
+
+| 文件（相对于技能目录） | Git blob SHA | SHA-256 |
+| --- | --- | --- |
+| `SKILL.md` | `15b9e6f9ca5b5fb98f332d9b43419f714e76e91b` | `1f027f2c5ef3b9eed47a93a1cc53ff79ad186ae5e206dc51808d214ae7273625` |
+| `references/doc-review-report-template.md` | `c872ecb65c8a07369078f6b4e4ce7da494336bfa` | `cf2eb9bdc7cd97866157cde7291a11ff568cafae5e357cfc8c649e4af6917001` |
+
 此来源记录及许可证对应上述引入和改编文件，不为仓库内其他独立内容指定许可证。
