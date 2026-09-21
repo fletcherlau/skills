@@ -1,0 +1,18 @@
+{
+  "name": "documentation",
+  "version": "0.1.0",
+  "description": "文档审查工具，包含 Diátaxis 分类、通用 Markdown 结构、声明准确性与写作风格审查。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Documentation",
+    "shortDescription": "审查文档分类、结构、准确性与写作风格。",
+    "longDescription": "检查文档分类与读者需求，审查 Markdown 结构，按声明类型核对相关证据，并依据项目规范和通用 Markdown 指南审查写作风格。",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "请审查我指定文档的分类、结构、准确性与写作风格，并报告证据、问题和修改建议。",
+    "developerName": "Local developer"
+  },
+  "author": {
+    "name": "Local developer"
+  }
+}
