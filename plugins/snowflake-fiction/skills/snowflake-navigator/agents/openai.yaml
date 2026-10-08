@@ -1,0 +1,4 @@
+interface:
+  display_name: "雪花小说 · 阶段导航"
+  short_description: "判断小说创作阶段，恢复已有大纲或稿件，选择合适技能并处理回退与一致性"
+  default_prompt: "请用 $snowflake-navigator 判断我的小说目前最需要哪一步，并恢复进度。"

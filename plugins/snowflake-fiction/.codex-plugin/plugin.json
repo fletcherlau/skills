@@ -1,0 +1,18 @@
+{
+  "name": "snowflake-fiction",
+  "version": "0.1.0",
+  "description": "雪花写作法小说创作：阶段导航、十步独立技能与可回退的场景写作。",
+  "skills": "./skills/",
+  "author": {
+    "name": "fletcherlau"
+  },
+  "interface": {
+    "displayName": "雪花小说创作",
+    "shortDescription": "从故事核心到场景初稿，支持已有大纲、稿件和回退修订。",
+    "longDescription": "中文小说创作工作流，提供十步独立技能、阶段判断、可复用模板及跨阶段一致性检查；作者决定题材与文风。",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "请判断我的小说目前处于雪花写作法哪个阶段，并推荐合适技能及下一项小范围任务。",
+    "developerName": "fletcherlau"
+  }
+}
