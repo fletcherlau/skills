@@ -1,0 +1,4 @@
+interface:
+  display_name: "雪花 03 · 人物摘要"
+  short_description: "小说创作第 3 步：人物摘要，支持已有材料接入、回退修订与一致性检查"
+  default_prompt: "请用 $snowflake-03-character-summary 处理我的小说材料，明确当前范围、候选与下一入口。"

@@ -1,0 +1,20 @@
+{
+  "name": "fletcherlau-skills",
+  "interface": {
+    "displayName": "Fletcher 的技能插件"
+  },
+  "plugins": [
+    {
+      "name": "snowflake-fiction",
+      "source": {
+        "source": "local",
+        "path": "./plugins/snowflake-fiction"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
